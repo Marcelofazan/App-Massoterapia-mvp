@@ -22,13 +22,13 @@ Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em
 Recuperar o Framework de desenvolvimento anterior. 
 
 ```bash
-	npm install --legacy-peer-deps
+npm install --legacy-peer-deps
 ```
 
 Para iniciar o servidor colocar o comando:
 
 ```bash
-	yarn start  
+yarn start  
 ```
 
 #### Requisitos e Detalhe do uso Backend (Node.js)
@@ -36,21 +36,21 @@ Para iniciar o servidor colocar o comando:
 Instalar o Framework de desenvolvimento. 
 
 ```bash
-	npm install express
+npm install express
 ```
 
 Automatizar o processo de reinicialização
 
 ```bash
-    npm install -g nodemon
+npm install -g nodemon
 ```
 
 Para iniciar o servidor colocar o comando:
 
 ```bash
-    nodemon index.js
+nodemon index.js
 ou 
-    node index.js
+node index.js
 ```
 
 #### Modo de executar o Projeto:
@@ -71,15 +71,12 @@ VSCode
 Modifique a string de conexão no arquivo **db.js**, no trecho indicado:
 
 ```bash
-...
         const sequelize = new Sequelize('SEUBANCO', 'postgres', 'SUASENHA', {
         host: 'localhost',
         dialect: 'postgres',
         define: {
             timestamps: false,
             },
-...
-
 ```
 
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
