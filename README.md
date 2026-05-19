@@ -62,7 +62,7 @@ npm install --legacy-peer-deps
 yarn start  
 ```
 
-#### 🔐 String de conexão do banco
+#### ⚠️ String de conexão do banco
 - Modifique a string de conexão no arquivo **db.js**, no trecho indicado:
 
 ```bash
