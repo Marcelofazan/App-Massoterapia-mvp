@@ -4,6 +4,13 @@ Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em
 
 #### O que voçê vai ver nesse Projeto 
 
+### Node.js
+| Tecnologia | Descrição |
+|-----------|-----------|
+| **Express JSON** | É um middleware embutido responsável por analisar (parsear) corpos de requisições HTTP recebidas que contenham dados no formato JSON.  |
+|  **Express Router** | Reponsável por criar manipuladores de rotas modulares e montáveis.  |
+|  **Sequelize** |  Mapeador objeto-relacional (ORM) permite que manipular dados usando objetos e métodos JavaScript, eliminando a necessidade de escrever queries SQL. |
+
 ### React
 | Tecnologia | Descrição |
 |-----------|-----------|
@@ -13,13 +20,6 @@ Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em
 | **pdfmake**  | Biblioteca JavaScript para geração de documentos PDF |
 | **react-router**  | Biblioteca padrão e mais utilizada para gerenciar navegação e roteamento em aplicações.  |
 | **react-table** | Biblioteca headless poderosa para construção de tabelas altamente customizáveis. |
-
-### Node.js
-| Tecnologia | Descrição |
-|-----------|-----------|
-| **Express JSON** | É um middleware embutido responsável por analisar (parsear) corpos de requisições HTTP recebidas que contenham dados no formato JSON.  |
-|  **Express Router** | Reponsável por criar manipuladores de rotas modulares e montáveis.  |
-|  **Sequelize** |  Mapeador objeto-relacional (ORM) permite que manipular dados usando objetos e métodos JavaScript, eliminando a necessidade de escrever queries SQL. |
 
 #### Requisitos do Projeto:
 - Necessários abrir duas instâncias do VSCode: 
