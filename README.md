@@ -2,7 +2,7 @@
 
 Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em NodeJS e React com banco de dados Postgree. 
 
-#### O que voçê vai ver nesse Projeto 
+#### O que voçê vai ver nesse Projeto
 
 | Node.js | Descrição |
 |-----------|-----------|
@@ -19,7 +19,7 @@ Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em
 | **react-router**  | Biblioteca padrão e mais utilizada para gerenciar navegação e roteamento em aplicações.  |
 | **react-table** | Biblioteca headless poderosa para construção de tabelas altamente customizáveis. |
 
-#### Requisitos do Projeto:
+#### Requisitos do Projeto
 - Necessários abrir duas instâncias do VSCode: 
 
 ```bash
@@ -31,7 +31,7 @@ VSCode
      |---- App Init / (http://localhost:3000/)
 ```
 
-#### Executar aplicação Backend (Node.js)
+#### Executar a aplicação Backend (Node.js)
 - Recuperar as dependencias do projeto node_modules . 
 ```bash
 npm install express
@@ -49,7 +49,7 @@ ou
 node index.js
 ```
 
-#### Executar aplicação Frontend (React)
+#### Executar a aplicação Frontend (React)
 - Recuperar as dependencias do projeto node_modules .
 ```bash
 npm install --legacy-peer-deps
