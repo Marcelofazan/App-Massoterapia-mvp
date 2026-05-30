@@ -12,11 +12,11 @@ Exemplo de criação de aplicativo de agendamento de sessões de massoterapia em
 
 | React | Descrição |
 |-----------|-----------|
-| **react-router-dom** | Biblioteca padrão React para gerenciar navegação e roteamento em aplicações web Single Page Applications, permitindo que o usuário navegue entre diferentes "telas" sem recarregar a página inteira   |
 |  **moment**  | Manipulação e formatação de exibição de datas e horas, facilitando o desenvolvimento de interfaces interativas.  |
-| **react-hook-form** | Simplifica a validação, coleta de dados e manipulação de estado. Sua principal competência é reduzir a necessidade de componentes controlados (useState) |
 | **pdfmake**  | Biblioteca JavaScript para geração de documentos PDF |
+| **react-hook-form** | Simplifica a validação, coleta de dados e manipulação de estado. Sua principal competência é reduzir a necessidade de componentes controlados (useState) |
 | **react-router**  | Biblioteca padrão e mais utilizada para gerenciar navegação e roteamento em aplicações.  |
+| **react-router-dom** | Biblioteca padrão React para gerenciar navegação e roteamento em aplicações web Single Page Applications, permitindo que o usuário navegue entre diferentes "telas" sem recarregar a página inteira   |
 | **react-table** | Biblioteca headless poderosa para construção de tabelas altamente customizáveis. |
 
 #### Requisitos do Projeto
